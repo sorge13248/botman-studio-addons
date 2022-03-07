@@ -1,5 +1,5 @@
 {
-    "name": "botman/studio-addons",
+    "name": "sorge13248/botman-studio-addons",
     "license": "MIT",
     "description": "BotMan Studio specific addons.",
     "keywords": [
@@ -7,11 +7,11 @@
         "BotMan",
         "Studio"
     ],
-    "homepage": "http://github.com/botman/studio-addons",
+    "homepage": "https://github.com/sorge13248/botman-studio-addons",
     "authors": [
         {
-            "name": "Marcel Pociot",
-            "email": "m.pociot@gmail.com"
+            "name": "Francesco Sorge",
+            "email": "contact@francescosorge.com"
         }
     ],
     "require": {
